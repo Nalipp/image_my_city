@@ -1,13 +1,19 @@
-### Usage Instructions
+## Usage Instructions
 
-### Deploy Instructions
+## Deploy Instructions
 
-### commits finished[x] / commits to do
+## Commits 
 
-Initial Commit
--Initialize Git
--Update Readme
+#### finished[x] / todo
+
+xInitial Commit
+x-Initialize Git
+x-Update Readme
 
 Deploy with Github pages
+
+Update Favicon
+
+Add image to Readme
 
 
