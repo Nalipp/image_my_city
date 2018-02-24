@@ -10,9 +10,10 @@
   "scripts": {
     "start": "react-scripts start",
     "start-watch": "nodemon start",
-    "homepage": "https://nalipp.github.io/image_my_city",
+    "homepage": "https://Nalipp.github.io/image_my_city",
     "build": "react-scripts build",
-    "deploy" : "npm run build&&gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
